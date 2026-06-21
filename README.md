@@ -1,4 +1,4 @@
 # college-demo
 This is my first Repository
 <br>
-Auther- Rutik Dinde
+Auther- Rutik (college-student)
